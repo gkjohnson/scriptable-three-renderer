@@ -1,0 +1,23 @@
+{
+  "name": "scriptable-three-renderer",
+  "version": "1.0.0",
+  "description": "Investigating new options for making the WebGLRenderer more customize-able.",
+  "main": "index.js",
+  "scripts": {
+    "start": "static-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkjohnson/scriptable-three-renderer.git"
+  },
+  "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkjohnson/scriptable-three-renderer/issues"
+  },
+  "homepage": "https://github.com/gkjohnson/scriptable-three-renderer#readme",
+  "devDependencies": {
+    "static-server": "^2.2.1",
+    "three": "^0.100.0"
+  }
+}
